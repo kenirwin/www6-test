@@ -1,0 +1,3 @@
+[submodule "ajaxcrud"]
+	path = ajaxcrud
+	url = https://github.com/iceman101184/ajaxcrud.git
